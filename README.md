@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @SUHAID-BRO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/Q8UeA57.png>
+</p>
 
-<!---
-SUHAID-BRO/SUHAID-BRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+SUHAID-BRK+GITHUB+BOT+CREATED+BY+SUHAID+BRO
+
+
+## JOIN WA GRP
+👇
+    <br>
+<br>
+  (https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  <div align="center">
