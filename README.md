@@ -1,4 +1,4 @@
-<h1 align="center">𝛪 𝛥𝛭 𝑆𝑈𝛨𝛥𝛪𝐷-𝐵𝑅𝛩<img src="https://i.imgur.com/icxRhun.jpeg" width="80px" alt=""><br></h1>
+<h1 align="center">𝛪 𝛥𝛭 𝑆𝑈𝛨𝛥𝛪𝐷-𝐵𝑅𝛩<img src="🦋🎧" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://i.imgur.com/icxRhun.jpeg" />
 </p>
